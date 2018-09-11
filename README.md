@@ -9,3 +9,4 @@ leetcode题解
 * 14.[最长公共前缀](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem14/Solution.java)
 * 20.[有效的括号](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem20/Solution.java)
 * 21.[合并两个有序链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem21/Solution.java)
+* 26.[删除排序数组中的重复项](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem26/Solution.java)
