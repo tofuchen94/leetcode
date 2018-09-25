@@ -12,3 +12,4 @@ leetcode题解
 * 26.[删除排序数组中的重复项](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem26/Solution.java)
 * 27.[移除元素](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem27/Solution.java)
 * 28.[实现strStr()](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem28/Solution.java)
+* 35.[搜索插入位置](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem35/Solution.java)
