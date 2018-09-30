@@ -14,3 +14,4 @@ leetcode题解
 * 28.[实现strStr()](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem28/Solution.java)
 * 35.[搜索插入位置](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem35/Solution.java)
 * 38.[报数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem38/Solution.java)
+* 53.[最大子序和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem53/Solution.java)
