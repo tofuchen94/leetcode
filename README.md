@@ -16,3 +16,4 @@ leetcode题解
 * 38.[报数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem38/Solution.java)
 * 53.[最大子序和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem53/Solution.java)
 * 58.[最后一个单词的长度](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem58/Solution.java)
+* 66.[加一](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem66/Solution.java)
