@@ -18,3 +18,4 @@ leetcode题解
 * 58.[最后一个单词的长度](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem58/Solution.java)
 * 66.[加一](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem66/Solution.java)
 * 67.[二进制求和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem67/Solution.java)
+* 69.[x的平方根](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem69/Solution.java)
