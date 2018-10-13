@@ -24,3 +24,4 @@ leetcode题解
 * 88.[合并两个有序数组](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem88/Solution.java)
 * 100.[相同的树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem100/Solution.java)
 * 101.[对称二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem101/Solution.java)
+* 104.[二叉树的最大深度](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem104/Solution.java)
