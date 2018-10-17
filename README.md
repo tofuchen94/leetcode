@@ -28,5 +28,4 @@ leetcode题解
 * 107.[二叉树的层次遍历 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem107/Solution.java)
 * 108.[将有序数组转换为二叉搜索树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem108/Solution.java)
 * 110.[平衡二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem110/Solution.java)
-* 110.[平衡二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem110/Solution.java)
 * 111.[二叉树的最小深度](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem111/Solution.java)
