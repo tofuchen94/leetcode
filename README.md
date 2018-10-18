@@ -30,3 +30,4 @@ leetcode题解
 * 110.[平衡二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem110/Solution.java)
 * 111.[二叉树的最小深度](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem111/Solution.java)
 * 112.[路径总和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem112/Solution.java)
+* 118.[杨辉三角](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem118/Solution.java)
