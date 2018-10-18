@@ -29,3 +29,4 @@ leetcode题解
 * 108.[将有序数组转换为二叉搜索树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem108/Solution.java)
 * 110.[平衡二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem110/Solution.java)
 * 111.[二叉树的最小深度](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem111/Solution.java)
+* 112.[路径总和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem112/Solution.java)
