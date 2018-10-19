@@ -32,3 +32,4 @@ leetcode题解
 * 112.[路径总和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem112/Solution.java)
 * 118.[杨辉三角](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem118/Solution.java)
 * 119.[杨辉三角 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem119/Solution.java)
+* 121.[买卖股票的最佳时机](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem121/Solution.java)
