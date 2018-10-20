@@ -34,3 +34,4 @@ leetcode题解
 * 119.[杨辉三角 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem119/Solution.java)
 * 121.[买卖股票的最佳时机](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem121/Solution.java)
 * 122.[买卖股票的最佳时机 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem122/Solution.java)
+* 125.[验证回文串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem125/Solution.java)
