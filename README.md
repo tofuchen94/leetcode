@@ -38,3 +38,4 @@ leetcode题解
 * 136.[只出现一次的数字](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem136/Solution.java)
 * 141.[环形链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem141/Solution.java)
 * 155.[最小栈](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem155/Solution.java)
+* 160.[相交链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem160/Solution.java)
