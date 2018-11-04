@@ -40,3 +40,4 @@ leetcode题解
 * 155.[最小栈](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem155/Solution.java)
 * 160.[相交链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem160/Solution.java)
 * 167.[两数之和 II - 输入有序数组](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem167/Solution.java)
+* 168.[Excel表列名称](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem168/Solution.java)
