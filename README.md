@@ -42,3 +42,4 @@ leetcode题解
 * 167.[两数之和 II - 输入有序数组](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem167/Solution.java)
 * 168.[Excel表列名称](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem168/Solution.java)
 * 169.[求众数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem169/Solution.java)
+* 171.[Excel表列序号](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem171/Solution.java)
