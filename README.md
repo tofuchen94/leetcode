@@ -43,3 +43,4 @@ leetcode题解
 * 168.[Excel表列名称](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem168/Solution.java)
 * 169.[求众数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem169/Solution.java)
 * 171.[Excel表列序号](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem171/Solution.java)
+* 172.[阶乘后的零](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem171/Solution.java)
