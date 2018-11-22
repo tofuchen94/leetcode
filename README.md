@@ -45,3 +45,4 @@ leetcode题解
 * 171.[Excel表列序号](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem171/Solution.java)
 * 172.[阶乘后的零](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem171/Solution.java)
 * 189.[旋转数组](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem189/Solution.java)
+* 190.[颠倒二进制位](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem190/Solution.java)
