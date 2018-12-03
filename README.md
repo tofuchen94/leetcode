@@ -50,3 +50,4 @@ leetcode题解
 * 198.[打家劫舍](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem198/Solution.java)
 * 202.[快乐数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem202/Solution.java)
 * 203.[移除链表元素](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem203/Solution.java)
+* 204.[计数质数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem204/Solution.java)
