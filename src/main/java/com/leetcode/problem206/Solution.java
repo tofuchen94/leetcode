@@ -3,7 +3,7 @@ package com.leetcode.problem206;
 import com.leetcode.domain.ListNode;
 
 /**
- * 反转一个单链表
+ * 翻转一个链表
  * @author tofuchen
  *
  */
