@@ -53,3 +53,4 @@ leetcode题解
 * 204.[计数质数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem204/Solution.java)
 * 205.[同构字符串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem205/Solution.java)
 * 206.[反转链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem206/Solution.java)
+* 217.[存在重复元素](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem217/Solution.java)
