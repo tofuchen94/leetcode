@@ -3,7 +3,7 @@ package com.leetcode.problem226;
 import com.leetcode.domain.TreeNode;
 
 /**
- * ·­×ª¶ş²æÊ÷
+ * ç¿»è½¬äºŒå‰æ ‘
  * @author tofuchen
  *
  */
