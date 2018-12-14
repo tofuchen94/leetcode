@@ -57,3 +57,4 @@ leetcode题解
 * 219.[存在重复元素 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem219/Solution.java)
 * 225.[用队列实现栈](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem225/MyStack.java)
 * 226.[翻转二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem226/Solution.java)
+* 231.[2的幂](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem231/Solution.java)
