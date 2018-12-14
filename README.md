@@ -58,5 +58,5 @@ leetcode题解
 * 225.[用队列实现栈](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem225/MyStack.java)
 * 226.[翻转二叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem226/Solution.java)
 * 231.[2的幂](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem231/Solution.java)
-* 232.[用栈实现队列](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem232/Solution.java)
+* 232.[用栈实现队列](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem232/MyQueue.java)
 * 234.[回文链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem234/Solution.java)
