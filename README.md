@@ -60,3 +60,4 @@ leetcode题解
 * 231.[2的幂](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem231/Solution.java)
 * 232.[用栈实现队列](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem232/MyQueue.java)
 * 234.[回文链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem234/Solution.java)
+* 235.[二叉搜索树的最近公共祖先](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem235/Solution.java)
