@@ -62,3 +62,4 @@ leetcode题解
 * 234.[回文链表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem234/Solution.java)
 * 235.[二叉搜索树的最近公共祖先](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem235/Solution.java)
 * 237.[删除链表中的节点](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem237/Solution.java)
+* 242.[有效的字母异位词](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem242/Solution.java)
