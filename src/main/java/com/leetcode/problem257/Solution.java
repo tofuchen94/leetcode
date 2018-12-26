@@ -6,7 +6,7 @@ import java.util.List;
 import com.leetcode.domain.TreeNode;
 
 /**
- * ¸ø¶¨Ò»¸ö¶ş²æÊ÷£¬·µ»ØËùÓĞ´Ó¸ù½Úµãµ½Ò¶×Ó½ÚµãµÄÂ·¾¶
+ * ç»™å®šä¸€ä¸ªäºŒå‰æ ‘ï¼Œè¿”å›æ‰€æœ‰ä»æ ¹èŠ‚ç‚¹åˆ°å¶å­èŠ‚ç‚¹çš„è·¯å¾„
  * @author tofuchen
  *
  */
