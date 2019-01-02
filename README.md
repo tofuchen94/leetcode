@@ -64,3 +64,5 @@ leetcode题解
 * 237.[删除链表中的节点](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem237/Solution.java)
 * 242.[有效的字母异位词](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem242/Solution.java)
 * 257.[二叉树的所有路径](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem257/Solution.java)
+* 258.[各位相加](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem258/Solution.java)
+* 263.[丑数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem263/Solution.java)
