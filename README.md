@@ -66,3 +66,5 @@ leetcode题解
 * 257.[二叉树的所有路径](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem257/Solution.java)
 * 258.[各位相加](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem258/Solution.java)
 * 263.[丑数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem263/Solution.java)
+* 268.[缺失数字](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem268/Solution.java)
+* 278.[第一个错误的版本](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem278/Solution.java)
