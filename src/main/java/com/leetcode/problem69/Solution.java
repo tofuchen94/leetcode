@@ -1,7 +1,8 @@
 package com.leetcode.problem69;
 
 /**
- * ÊµÏÖ int sqrt(int x) º¯Êý¡£¼ÆËã²¢·µ»Ø x µÄÆ½·½¸ù£¬ÆäÖÐ x ÊÇ·Ç¸ºÕûÊý¡£ ÓÉÓÚ·µ»ØÀàÐÍÊÇÕûÊý£¬½á¹ûÖ»±£ÁôÕûÊýµÄ²¿·Ö£¬Ð¡Êý²¿·Ö½«±»ÉáÈ¥¡£
+ * å®žçŽ° int sqrt(int x) å‡½æ•°ã€‚
+ * è®¡ç®—å¹¶è¿”å›ž x çš„å¹³æ–¹æ ¹ï¼Œå…¶ä¸­ x æ˜¯éžè´Ÿæ•´æ•°ã€‚ç”±äºŽè¿”å›žç±»åž‹æ˜¯æ•´æ•°ï¼Œç»“æžœåªä¿ç•™æ•´æ•°çš„éƒ¨åˆ†ï¼Œå°æ•°éƒ¨åˆ†å°†è¢«èˆåŽ»ã€‚
  * 
  * @author tofuchen
  *

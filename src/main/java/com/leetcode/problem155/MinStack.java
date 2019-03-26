@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Éè¼ÆÒ»¸öÖ§³Ö push£¬pop£¬top ²Ù×÷£¬²¢ÄÜÔÚ³£ÊıÊ±¼äÄÚ¼ìË÷µ½×îĞ¡ÔªËØµÄÕ»
+ * è®¾è®¡ä¸€ä¸ªæ”¯æŒ pushï¼Œpopï¼Œtop æ“ä½œï¼Œå¹¶èƒ½åœ¨å¸¸æ•°æ—¶é—´å†…æ£€ç´¢åˆ°æœ€å°å…ƒç´ çš„æ ˆã€‚
  * @author tofuchen
  *
  */

@@ -3,7 +3,8 @@ package com.leetcode.problem217;
 import java.util.Arrays;
 
 /**
- * ¸ø¶¨Ò»¸öÕûÊýÊý×é£¬ÅÐ¶ÏÊÇ·ñ´æÔÚÖØ¸´ÔªËØ¡£Èç¹ûÈÎºÎÖµÔÚÊý×éÖÐ³öÏÖÖÁÉÙÁ½´Î£¬º¯Êý·µ»Ø true¡£Èç¹ûÊý×éÖÐÃ¿¸öÔªËØ¶¼²»ÏàÍ¬£¬Ôò·µ»Ø false¡£
+ * ç»™å®šä¸€ä¸ªæ•´æ•°æ•°ç»„ï¼Œåˆ¤æ–­æ˜¯å¦å­˜åœ¨é‡å¤å…ƒç´ ã€‚
+ * å¦‚æžœä»»ä½•å€¼åœ¨æ•°ç»„ä¸­å‡ºçŽ°è‡³å°‘ä¸¤æ¬¡ï¼Œå‡½æ•°è¿”å›ž trueã€‚å¦‚æžœæ•°ç»„ä¸­æ¯ä¸ªå…ƒç´ éƒ½ä¸ç›¸åŒï¼Œåˆ™è¿”å›ž falseã€‚
  * @author tofuchen
  *
  */

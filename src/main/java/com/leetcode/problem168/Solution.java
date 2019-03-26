@@ -1,7 +1,7 @@
 package com.leetcode.problem168;
 
 /**
- * ¸ø¶¨Ò»¸öÕýÕûÊý£¬·µ»ØËüÔÚ Excel ±íÖÐÏà¶ÔÓ¦µÄÁÐÃû³Æ¡£
+ * ç»™å®šä¸€ä¸ªæ­£æ•´æ•°ï¼Œè¿”å›žå®ƒåœ¨ Excel è¡¨ä¸­ç›¸å¯¹åº”çš„åˆ—åç§°ã€‚
  * 
  * @author tofuchen
  *

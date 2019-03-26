@@ -2,7 +2,7 @@ package com.leetcode.problem13;
 
 
 /**
- * ¸ø¶¨Ò»¸öÂÞÂíÊý×Ö£¬½«Æä×ª»»³ÉÕûÊý¡£ÊäÈëÈ·±£ÔÚ 1 µ½ 3999 µÄ·¶Î§ÄÚ¡£
+ * ç»™å®šä¸€ä¸ªç½—é©¬æ•°å­—ï¼Œå°†å…¶è½¬æ¢æˆæ•´æ•°ã€‚è¾“å…¥ç¡®ä¿åœ¨ 1 åˆ° 3999 çš„èŒƒå›´å†…
  * @author tofuchen
  *
  */

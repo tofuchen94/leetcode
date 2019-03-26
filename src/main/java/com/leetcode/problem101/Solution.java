@@ -6,20 +6,20 @@ import java.util.Queue;
 import com.leetcode.domain.TreeNode;
 
 /**
- * ¸ø¶¨Ò»¸ö¶ş²æÊ÷£¬¼ì²éËüÊÇ·ñÊÇ¾µÏñ¶Ô³ÆµÄ
+ * ç»™å®šä¸€ä¸ªäºŒå‰æ ‘ï¼Œæ£€æŸ¥å®ƒæ˜¯å¦æ˜¯é•œåƒå¯¹ç§°çš„
  * 
  * @author tofuchen
  *
  */
 public class Solution {
 	
-//	//µİ¹é
+//	//ï¿½İ¹ï¿½
 //	public boolean isSymmetric(TreeNode root) {
 //		if(root==null)return true;
 //		return helper1(root.left,root.right);
 //	}
 //	
-//	//ÅĞ¶Ïroot1Óëroot2ÊÇ·ñ¶Ô³Æ
+//	//ï¿½Ğ¶ï¿½root1ï¿½ï¿½root2ï¿½Ç·ï¿½Ô³ï¿½
 //	private boolean helper1(TreeNode root1,TreeNode root2) {
 //		if(root1==null&&root2==null)return true;
 //		if(root1==null||root2==null)return false;
@@ -27,7 +27,7 @@ public class Solution {
 //		return helper1(root1.left,root2.right)&&helper1(root1.right,root2.left);
 //	}
 	
-	//·Çµİ¹é
+	//ï¿½Çµİ¹ï¿½
 	public boolean isSymmetric(TreeNode root) {
 		Queue<TreeNode> queue=new LinkedList<TreeNode>();
 		queue.add(root);

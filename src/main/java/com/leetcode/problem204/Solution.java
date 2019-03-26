@@ -1,6 +1,6 @@
 package com.leetcode.problem204;
 /**
- * Í³¼ÆËùÓÐÐ¡ÓÚ·Ç¸ºÕûÊý n µÄÖÊÊýµÄÊýÁ¿
+ * ç»Ÿè®¡æ‰€æœ‰å°äºŽéžè´Ÿæ•´æ•° n çš„è´¨æ•°çš„æ•°é‡ã€‚
  * @author tofuchen
  *
  */

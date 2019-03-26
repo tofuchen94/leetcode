@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * ¸ø¶¨Ò»¸ö·Ç¸ºÕûÊı numRows£¬Éú³ÉÑî»ÔÈı½ÇµÄÇ° numRows ĞĞ
+ * ç»™å®šä¸€ä¸ªéè´Ÿæ•´æ•° numRowsï¼Œç”Ÿæˆæ¨è¾‰ä¸‰è§’çš„å‰ numRows è¡Œã€‚
  * 
  * @author tofuchen
  *

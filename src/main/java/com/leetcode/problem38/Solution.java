@@ -1,8 +1,7 @@
 package com.leetcode.problem38;
 
 /**
- * ±¨ÊýÐòÁÐÊÇÖ¸Ò»¸öÕûÕÕÆäÖÐµÄÕûÊýµÄË³Ðò½øÊýÐòÁÐ£¬°´ÐÐ±¨Êý£¬µÃµ½ÏÂÒ»¸öÊý¡£ÆäÇ°ÎåÏîÈçÏÂ£º¸ø¶¨Ò»¸öÕýÕûÊý n£¨1 ¡Ü n ¡Ü 30£©£¬Êä³ö±¨ÊýÐòÁÐµÄµÚ n Ïî¡£
- * 
+ * ç»™å®šä¸€ä¸ªæ­£æ•´æ•° nï¼ˆ1 â‰¤ n â‰¤ 30ï¼‰ï¼Œè¾“å‡ºæŠ¥æ•°åºåˆ—çš„ç¬¬ n é¡¹ã€‚æ³¨æ„ï¼šæ•´æ•°é¡ºåºå°†è¡¨ç¤ºä¸ºä¸€ä¸ªå­—ç¬¦ä¸²
  * @author tofuchen
  *
  */

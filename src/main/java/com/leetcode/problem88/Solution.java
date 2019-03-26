@@ -1,7 +1,7 @@
 package com.leetcode.problem88;
 
 /**
- * ¸ø¶¨Á½¸öÓĞĞòÕûÊıÊı×é nums1 ºÍ nums2£¬½« nums2 ºÏ²¢µ½ nums1 ÖĞ£¬Ê¹µÃ num1 ³ÉÎªÒ»¸öÓĞĞòÊı×é
+ * ç»™å®šä¸¤ä¸ªæœ‰åºæ•´æ•°æ•°ç»„ nums1 å’Œ nums2ï¼Œå°† nums2 åˆå¹¶åˆ° nums1 ä¸­ï¼Œä½¿å¾— num1 æˆä¸ºä¸€ä¸ªæœ‰åºæ•°ç»„
  * 
  * @author tofuchen
  *

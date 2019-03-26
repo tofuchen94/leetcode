@@ -3,7 +3,7 @@ package com.leetcode.problem20;
 import java.util.Stack;
 
 /**
- * ¸ø¶¨Ò»¸öÖ»°üÀ¨ '('£¬')'£¬'{'£¬'}'£¬'['£¬']' µÄ×Ö·û´®£¬ÅÐ¶Ï×Ö·û´®ÊÇ·ñÓÐÐ§¡£
+ * ç»™å®šä¸€ä¸ªåªåŒ…æ‹¬ '('ï¼Œ')'ï¼Œ'{'ï¼Œ'}'ï¼Œ'['ï¼Œ']' çš„å­—ç¬¦ä¸²ï¼Œåˆ¤æ–­å­—ç¬¦ä¸²æ˜¯å¦æœ‰æ•ˆ
  * 
  * @author tofuchen
  *

@@ -2,7 +2,7 @@ package com.leetcode.problem203;
 
 import com.leetcode.domain.ListNode;
 /**
- * É¾³ıÁ´±íÖĞµÈÓÚ¸ø¶¨Öµ val µÄËùÓĞ½Úµã
+ * åˆ é™¤é“¾è¡¨ä¸­ç­‰äºç»™å®šå€¼ val çš„æ‰€æœ‰èŠ‚ç‚¹ã€‚
  * @author tofuchen
  *
  */

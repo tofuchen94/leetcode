@@ -1,6 +1,6 @@
 package com.leetcode.problem219;
 /**
- * ¸ø¶¨Ò»¸öÕûÊýÊý×éºÍÒ»¸öÕûÊý k£¬ÅÐ¶ÏÊý×éÖÐÊÇ·ñ´æÔÚÁ½¸ö²»Í¬µÄË÷Òý i ºÍ j£¬Ê¹µÃ nums [i] = nums [j]£¬²¢ÇÒ i ºÍ j µÄ²îµÄ¾ø¶ÔÖµ×î´óÎª k
+ * ç»™å®šä¸€ä¸ªæ•´æ•°æ•°ç»„å’Œä¸€ä¸ªæ•´æ•° kï¼Œåˆ¤æ–­æ•°ç»„ä¸­æ˜¯å¦å­˜åœ¨ä¸¤ä¸ªä¸åŒçš„ç´¢å¼• i å’Œ jï¼Œä½¿å¾— nums [i] = nums [j]ï¼Œå¹¶ä¸” i å’Œ j çš„å·®çš„ç»å¯¹å€¼æœ€å¤§ä¸º kã€‚
  * @author tofuchen
  *
  */

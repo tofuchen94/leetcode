@@ -1,7 +1,7 @@
 package com.leetcode.problem172;
 
 /**
- * ¸ø¶¨Ò»¸öÕûÊý n£¬·µ»Ø n! ½á¹ûÎ²ÊýÖÐÁãµÄÊýÁ¿¡£
+ * ç»™å®šä¸€ä¸ªæ•´æ•° nï¼Œè¿”å›ž n! ç»“æžœå°¾æ•°ä¸­é›¶çš„æ•°é‡
  * 
  * @author tofuchen
  *

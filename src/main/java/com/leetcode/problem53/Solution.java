@@ -1,6 +1,6 @@
 package com.leetcode.problem53;
 /**
- * ¸ø¶¨Ò»¸öÕûÊýÊý×é nums £¬ÕÒµ½Ò»¸ö¾ßÓÐ×î´óºÍµÄÁ¬Ðø×ÓÊý×é£¨×ÓÊý×é×îÉÙ°üº¬Ò»¸öÔªËØ£©£¬·µ»ØÆä×î´óºÍ¡£
+ * ç»™å®šä¸€ä¸ªæ•´æ•°æ•°ç»„ nums ï¼Œæ‰¾åˆ°ä¸€ä¸ªå…·æœ‰æœ€å¤§å’Œçš„è¿žç»­å­æ•°ç»„ï¼ˆå­æ•°ç»„æœ€å°‘åŒ…å«ä¸€ä¸ªå…ƒç´ ï¼‰ï¼Œè¿”å›žå…¶æœ€å¤§å’Œã€‚
  * @author tofuchen
  *
  */

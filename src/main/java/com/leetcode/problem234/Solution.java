@@ -1,16 +1,11 @@
 package com.leetcode.problem234;
 /**
- * 请判断一个链表是否为回文链表
+ * 璇峰垽鏂竴涓摼琛ㄦ槸鍚︿负鍥炴枃閾捐〃
  * @author tofuchen
  *
  */
 
 import com.leetcode.domain.ListNode;
-/**
- * 请判断一个链表是否为回文链表
- * @author tofuchen
- *
- */
 public class Solution {
 	
 	public static void main(String[] args) {

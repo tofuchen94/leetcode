@@ -3,7 +3,8 @@ package com.leetcode.problem111;
 import com.leetcode.domain.TreeNode;
 
 /**
- * ����һ�����������ҳ�����С��ȡ���С����ǴӸ��ڵ㵽���Ҷ�ӽڵ�����·���ϵĽڵ�������
+ * 给定一个二叉树，找出其最小深度。
+ * 最小深度是从根节点到最近叶子节点的最短路径上的节点数量。
  * 
  * @author tofuchen
  *

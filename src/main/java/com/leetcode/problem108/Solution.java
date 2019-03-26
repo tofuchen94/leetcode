@@ -2,7 +2,8 @@ package com.leetcode.problem108;
 
 import com.leetcode.domain.TreeNode;
 /**
- * ½«Ò»¸ö°´ÕÕÉýÐòÅÅÁÐµÄÓÐÐòÊý×é£¬×ª»»ÎªÒ»¿Ã¸ß¶ÈÆ½ºâ¶þ²æËÑË÷Ê÷¡£±¾ÌâÖÐ£¬Ò»¸ö¸ß¶ÈÆ½ºâ¶þ²æÊ÷ÊÇÖ¸Ò»¸ö¶þ²æÊ÷Ã¿¸ö½Úµã µÄ×óÓÒÁ½¸ö×ÓÊ÷µÄ¸ß¶È²îµÄ¾ø¶ÔÖµ²»³¬¹ý 1¡£
+ * å°†ä¸€ä¸ªæŒ‰ç…§å‡åºæŽ’åˆ—çš„æœ‰åºæ•°ç»„ï¼Œè½¬æ¢ä¸ºä¸€æ£µé«˜åº¦å¹³è¡¡äºŒå‰æœç´¢æ ‘ã€‚
+ * æœ¬é¢˜ä¸­ï¼Œä¸€ä¸ªé«˜åº¦å¹³è¡¡äºŒå‰æ ‘æ˜¯æŒ‡ä¸€ä¸ªäºŒå‰æ ‘æ¯ä¸ªèŠ‚ç‚¹ çš„å·¦å³ä¸¤ä¸ªå­æ ‘çš„é«˜åº¦å·®çš„ç»å¯¹å€¼ä¸è¶…è¿‡ 1ã€‚
  * @author tofuchen
  *
  */

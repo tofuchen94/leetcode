@@ -1,6 +1,6 @@
 package com.leetcode.problem268;
 /**
- * ¸ø¶¨Ò»¸ö°üº¬ 0, 1, 2, ..., n ÖÐ n ¸öÊýµÄÐòÁÐ£¬ÕÒ³ö 0 .. n ÖÐÃ»ÓÐ³öÏÖÔÚÐòÁÐÖÐµÄÄÇ¸öÊý
+ * ç»™å®šä¸€ä¸ªåŒ…å« 0, 1, 2, ..., n ä¸­ n ä¸ªæ•°çš„åºåˆ—ï¼Œæ‰¾å‡º 0 .. n ä¸­æ²¡æœ‰å‡ºçŽ°åœ¨åºåˆ—ä¸­çš„é‚£ä¸ªæ•°ã€‚
  * @author tofuchen
  *
  */

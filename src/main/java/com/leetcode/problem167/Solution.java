@@ -1,8 +1,8 @@
 package com.leetcode.problem167;
 
 /**
- * ¸ø¶¨Ò»¸öÒÑ°´ÕÕÉýÐòÅÅÁÐ µÄÓÐÐòÊý×é£¬ÕÒµ½Á½¸öÊýÊ¹µÃËüÃÇÏà¼ÓÖ®ºÍµÈÓÚÄ¿±êÊý¡£ º¯ÊýÓ¦¸Ã·µ»ØÕâÁ½¸öÏÂ±êÖµ index1 ºÍ index2£¬ÆäÖÐ index1
- * ±ØÐëÐ¡ÓÚ index2¡£
+ * ç»™å®šä¸€ä¸ªå·²æŒ‰ç…§å‡åºæŽ’åˆ— çš„æœ‰åºæ•°ç»„ï¼Œæ‰¾åˆ°ä¸¤ä¸ªæ•°ä½¿å¾—å®ƒä»¬ç›¸åŠ ä¹‹å’Œç­‰äºŽç›®æ ‡æ•°ã€‚
+ * å‡½æ•°åº”è¯¥è¿”å›žè¿™ä¸¤ä¸ªä¸‹æ ‡å€¼ index1 å’Œ index2ï¼Œå…¶ä¸­ index1 å¿…é¡»å°äºŽ index2ã€‚
  * 
  * @author tofuchen
  *
