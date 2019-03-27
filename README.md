@@ -69,3 +69,4 @@ leetcode题解
 * 268.[缺失数字](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem268/Solution.java)
 * 278.[第一个错误版本](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem278/Solution.java)
 * 283.[移动零](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem283/Solution.java)
+* 292.[Nim游戏](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem292/Solution.java)
