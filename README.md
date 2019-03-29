@@ -70,4 +70,6 @@ leetcode题解
 * 278.[第一个错误版本](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem278/Solution.java)
 * 283.[移动零](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem283/Solution.java)
 * 292.[Nim游戏](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem292/Solution.java)
-* 303.[区域和检索 - 数组不可变](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem292/NumArray.java)
+* 303.[区域和检索 - 数组不可变](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem303/NumArray.java)
+* 326.[3的幂](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem326/Solution.java)
+* 342.[4的幂](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem342/Solution.java)
