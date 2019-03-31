@@ -75,3 +75,5 @@ leetcode题解
 * 342.[4的幂](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem342/Solution.java)
 * 344.[反转字符串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem344/Solution.java)
 * 345.[反转字符串中的元音字符](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem345/Solution.java)
+* 349.[两个数组的交集](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem349/Solution.java)
+* 350.[两个数组的交集 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem350/Solution.java)
