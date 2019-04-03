@@ -79,3 +79,5 @@ leetcode题解
 * 350.[两个数组的交集 II](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem350/Solution.java)
 * 367.[有效的完全平方数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem367/Solution.java)
 * 371.[两整数之和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem371/Solution.java)
+* 374.[猜数字大小](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem374/Solution.java)
+* 383.[赎金信](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem383/Solution.java)
