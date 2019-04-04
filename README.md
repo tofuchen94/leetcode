@@ -81,3 +81,5 @@ leetcode题解
 * 371.[两整数之和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem371/Solution.java)
 * 374.[猜数字大小](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem374/Solution.java)
 * 383.[赎金信](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem383/Solution.java)
+* 387.[字符串中的第一个唯一字符](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem387/Solution.java)
+* 389.[找不同](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem389/Solution.java)
