@@ -83,3 +83,5 @@ leetcode题解
 * 383.[赎金信](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem383/Solution.java)
 * 387.[字符串中的第一个唯一字符](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem387/Solution.java)
 * 389.[找不同](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem389/Solution.java)
+* 400.[第N个数字](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem400/Solution.java)
+* 401.[二进制手表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem401/Solution.java)
