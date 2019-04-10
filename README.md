@@ -87,3 +87,5 @@ leetcode题解
 * 401.[二进制手表](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem401/Solution.java)
 * 404.[左叶子之和](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem404/Solution.java)
 * 405.[数字转换为十六进制数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem405/Solution.java)
+* 409.[最长回文串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem409/Solution.java)
+* 412.[Fizz Buzz](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem412/Solution.java)
