@@ -89,3 +89,5 @@ leetcode题解
 * 405.[数字转换为十六进制数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem405/Solution.java)
 * 409.[最长回文串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem409/Solution.java)
 * 412.[Fizz Buzz](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem412/Solution.java)
+* 414.[第三大的数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem414/Solution.java)
+* 415.[字符串相加](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem415/Solution.java)
