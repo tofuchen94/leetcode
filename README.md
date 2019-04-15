@@ -91,3 +91,5 @@ leetcode题解
 * 412.[Fizz Buzz](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem412/Solution.java)
 * 414.[第三大的数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem414/Solution.java)
 * 415.[字符串相加](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem415/Solution.java)
+* 427.[建立四叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem427/Solution.java)
+* 429.[N叉树的层序遍历](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem429/Solution.java)
