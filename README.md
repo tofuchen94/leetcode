@@ -93,3 +93,5 @@ leetcode题解
 * 415.[字符串相加](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem415/Solution.java)
 * 427.[建立四叉树](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem427/Solution.java)
 * 429.[N叉树的层序遍历](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem429/Solution.java)
+* 434.[字符串中的单词数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem434/Solution.java)
+* 437.[路径总和 III](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem437/Solution.java)

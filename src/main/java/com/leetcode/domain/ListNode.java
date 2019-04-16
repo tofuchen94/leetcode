@@ -1,6 +1,6 @@
 package com.leetcode.domain;
 /**
- * 链表节点类定义
+ * 閾捐〃鑺傜偣
  * @author tofuchen
  *
  */
