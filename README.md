@@ -95,3 +95,5 @@ leetcode题解
 * 429.[N叉树的层序遍历](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem429/Solution.java)
 * 434.[字符串中的单词数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem434/Solution.java)
 * 437.[路径总和 III](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem437/Solution.java)
+* 438.[找到字符串中所有字母异位词](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem438/Solution.java)
+* 441.[排列硬币](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem441/Solution.java)
