@@ -99,3 +99,5 @@ leetcode题解
 * 441.[排列硬币](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem441/Solution.java)
 * 443.[压缩字符串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem443/Solution.java)
 * 447.[回旋镖的数量](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem447/Solution.java)
+* 448.[找到所有数组中消失的数字](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem448/Solution.java)
+* 453.[最小移动次数使数组元素相等](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem453/Solution.java)
