@@ -101,3 +101,5 @@ leetcode题解
 * 447.[回旋镖的数量](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem447/Solution.java)
 * 448.[找到所有数组中消失的数字](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem448/Solution.java)
 * 453.[最小移动次数使数组元素相等](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem453/Solution.java)
+* 455.[分发饼干](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem455/Solution.java)
+* 459.[重复的子字符串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem459/Solution.java)
