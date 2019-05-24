@@ -105,3 +105,5 @@ leetcode题解
 * 459.[重复的子字符串](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem459/Solution.java)
 * 461.[汉明距离](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem461/Solution.java)
 * 463.[岛屿的周长](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem463/Solution.java)
+* 475.[供暖器](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem475/Solution.java)
+* 476.[数字的补数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem476/Solution.java)
