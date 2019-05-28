@@ -107,3 +107,5 @@ leetcode题解
 * 463.[岛屿的周长](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem463/Solution.java)
 * 475.[供暖器](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem475/Solution.java)
 * 476.[数字的补数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem476/Solution.java)
+* 482.[密钥格式化](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem482/Solution.java)
+* 485.[最大连续1的个数](https://github.com/tofuchen94/leetcode/blob/master/src/main/java/com/leetcode/problem485/Solution.java)
